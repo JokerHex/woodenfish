@@ -3,8 +3,11 @@
 
 ## 使用
 克隆项目至hoshino/modules中
+
 需安装pillow依赖
+
 在__bot__.py中添加woodenfish
+
 重启bot
 
 ## 使用方法
